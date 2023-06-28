@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "CopulaInference"]
 	path = CopulaInference
 	url = https://github.com/cran/CopulaInference
-	shallow = true
-	registered = true
 [submodule "GaussianHMM1d"]
 	path = GaussianHMM1d
 	url = https://github.com/cran/GaussianHMM1d
-	shallow = true
-	registered = true
 [submodule "MixedIndTests"]
 	path = MixedIndTests
 	url = https://github.com/cran/MixedIndTests
-	shallow = true
-	registered = true
