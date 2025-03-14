@@ -8,6 +8,9 @@
 [submodule "GaussianHMM1d"]
 	path = GaussianHMM1d
 	url = https://github.com/cran/GaussianHMM1d
+[submodule "GenHMM1d"]
+	path = GenHMM1d
+	url = https://github.com/cran/GenHMM1d
 [submodule "MixedIndTests"]
 	path = MixedIndTests
 	url = https://github.com/cran/MixedIndTests
